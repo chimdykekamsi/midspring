@@ -1,0 +1,8 @@
+[19-Apr-2023 06:17:38 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/midspri2/public_html/Back/ActiveUserIdentity.php on line 26
+[19-Apr-2023 06:17:38 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/midspri2/public_html/Back/ActiveUserIdentity.php on line 82
+[19-Apr-2023 06:18:02 Africa/Lagos] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/midspri2/public_html/Back/transfer.php on line 89
+[19-Apr-2023 06:18:48 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/midspri2/public_html/Back/ActiveUserIdentity.php on line 26
+[19-Apr-2023 06:18:48 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/midspri2/public_html/Back/ActiveUserIdentity.php on line 82
+[19-Apr-2023 06:19:10 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/midspri2/public_html/Back/includes/auth.php on line 3
+[19-Apr-2023 06:22:03 Africa/Lagos] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/midspri2/public_html/Back/transfer.php on line 89
+[20-Apr-2023 18:05:45 Africa/Lagos] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/midspri2/public_html/Back/transfer.php on line 89

@@ -1,0 +1,17 @@
+body{
+	background: url(../images/pic03.jpg) no-repeat 0px 0px;
+	font-family: 'Open Sans', sans-serif;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+
+}
+
+.section{
+	background: url(../images/pic02.jpg) no-repeat 0px 0px;
+
+	
+}
+
+
