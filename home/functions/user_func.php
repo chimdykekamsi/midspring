@@ -718,7 +718,7 @@ function credit_account($post, $user_id) {
                         $symbol = '€';
                         } 
                     if($coin === 'btc') {
-				
+                         
                         $api = "https://blockchain.info/ticker";
                         $json = file_get_contents($api);
                         $data = json_decode($json, TRUE);
